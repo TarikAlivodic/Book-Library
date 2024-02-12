@@ -1,0 +1,178 @@
+[
+  {
+    "_id": 2,
+    "title": "1984",
+    "isbn": 7690423853,
+    "pageCount": 328,
+    "thumbnailUrl": "https://images.bwbcovers.com/184/9781846975769.jpg",
+    "longDescription": "1984 is a dystopian social science fiction novel by George Orwell. It examines the consequences of totalitarianism, mass surveillance, and repressive regimentation of persons and behaviors within society.",
+    "status": "PUBLISH",
+    "authors": ["George Orwell"],
+    "categories": ["Fiction", "Dystopian Literature"]
+  },
+  {
+    "_id": 3,
+    "title": "The Catcher in the Rye",
+    "isbn": 3529601874,
+    "pageCount": 224,
+    "thumbnailUrl": "https://images.bwbcovers.com/031/The-Catcher-in-the-Rye-Salinger-J-D-9780316769174.jpg",
+    "longDescription": "The Catcher in the Rye is a novel by J. D. Salinger, partially published in serial form in 1945–1946 and as a novel in 1951. It is notable for its themes of teenage angst and alienation.",
+    "status": "PUBLISH",
+    "authors": ["J. D. Salinger"],
+    "categories": ["Fiction", "Coming-of-age"]
+  },
+  {
+    "_id": 4,
+    "title": "The Great Gatsby",
+    "isbn": 1285039675,
+    "pageCount": 180,
+    "thumbnailUrl": "https://images.bwbcovers.com/074/The-Great-Gatsby-9780743273565.jpg",
+    "longDescription": "The Great Gatsby is a novel by American author F. Scott Fitzgerald. Set in the Jazz Age on Long Island, the novel depicts narrator Nick Carraway's interactions with mysterious millionaire Jay Gatsby.",
+    "status": "PUBLISH",
+    "authors": ["F. Scott Fitzgerald"],
+    "categories": ["Fiction", "Classic Literature"]
+  },
+  {
+    "_id": 5,
+    "title": "The Hobbit",
+    "isbn": 5624908174,
+    "pageCount": 310,
+    "thumbnailUrl": "https://images.bwbcovers.com/054/The-Hobbit-Tolkien-J-R-R-9780547928227.jpg",
+    "longDescription": "The Hobbit, or There and Back Again, is a children's fantasy novel by English author J. R. R. Tolkien. It follows the quest of home-loving hobbit Bilbo Baggins to win a share of the treasure guarded by the dragon Smaug.",
+    "status": "PUBLISH",
+    "authors": ["J. R. R. Tolkien"],
+    "categories": ["Fantasy", "Children's Literature"]
+  },
+  {
+    "_id": 6,
+    "title": "Harry Potter and the Philosopher's Stone",
+    "isbn": 4593810246,
+    "pageCount": 332,
+    "thumbnailUrl": "https://images.bwbcovers.com/140/HP-PHILOSOPHER-STONE-REJACKET-Rowling-J-K-9781408855652.jpg",
+    "longDescription": "Harry Potter and the Philosopher's Stone is a fantasy novel written by British author J. K. Rowling. It is the first novel in the Harry Potter series and Rowling's debut novel, first published in 1997.",
+    "status": "PUBLISH",
+    "authors": ["J. K. Rowling"],
+    "categories": ["Fantasy", "Children's Literature"]
+  },
+  {
+    "_id": 7,
+    "title": "The Diary of a Young Girl",
+    "isbn": 7482309561,
+    "pageCount": 283,
+    "thumbnailUrl": "https://images.bwbcovers.com/014/The-Diary-of-a-Young-Girl-Frank-Anne-9780141315188.jpg",
+    "longDescription": "The Diary of a Young Girl is a book of the writings from the Dutch language diary kept by Anne Frank while she was in hiding for two years with her family during the Nazi occupation of the Netherlands.",
+    "status": "PUBLISH",
+    "authors": ["Anne Frank"],
+    "categories": ["Biography", "World War II Literature"]
+  },
+  {
+    "_id": 8,
+    "title": "Pride and Prejudice",
+    "isbn": 1295830476,
+    "pageCount": 279,
+    "thumbnailUrl": "https://m.media-amazon.com/images/I/71Q1tPupKjL._AC_UF1000,1000_QL80_.jpg",
+    "longDescription": "Pride and Prejudice is a romantic novel of manners written by Jane Austen. The novel follows the character development of Elizabeth Bennet, the dynamic protagonist of the book.",
+    "status": "PUBLISH",
+    "authors": ["Jane Austen"],
+    "categories": ["Fiction", "Romance"]
+  },
+  {
+    "_id": 9,
+    "title": "The Alchemist",
+    "isbn": 6351829470,
+    "pageCount": 197,
+    "thumbnailUrl": "https://images.bwbcovers.com/006/9780062390622.jpg",
+    "longDescription": "The Alchemist is a novel by Brazilian author Paulo Coelho that was first published in 1988. Originally written in Portuguese, it has been translated into 80 languages.",
+    "status": "PUBLISH",
+    "authors": ["Paulo Coelho"],
+    "categories": ["Fiction", "Philosophical fiction"]
+  },
+  {
+    "_id": 10,
+    "title": "The Little Prince",
+    "isbn": 3729156048,
+    "pageCount": 93,
+    "thumbnailUrl": "https://images.bwbcovers.com/054/9780547970486.jpg",
+    "longDescription": "The Little Prince is a novella by Antoine de Saint-Exupéry, first published in 1943. The story follows a young prince who travels from planet to planet, meeting different inhabitants.",
+    "status": "PUBLISH",
+    "authors": ["Antoine de Saint-Exupéry"],
+    "categories": ["Fiction", "Children's Literature"]
+  },
+  {
+    "_id": 11,
+    "title": "Animal Farm",
+    "isbn": 4968135702,
+    "pageCount": 112,
+    "thumbnailUrl": "https://cdna.artstation.com/p/assets/images/images/015/140/248/large/sascha-sendlbeck-animalfarmsendlbecksascha-withfeedback-frontcover-withoutbleed.jpg?1547203834",
+    "longDescription": "Animal Farm is an allegorical novella by George Orwell, first published in England on 17 August 1945. The book tells the story of a group of farm animals who rebel against their human farmer, hoping to create a society where the animals can be equal, free, and happy.",
+    "status": "PUBLISH",
+    "authors": ["George Orwell"],
+    "categories": ["Fiction", "Political Satire"]
+  },
+  {
+    "_id": 12,
+    "title": "The Kite Runner",
+    "isbn": 9172658340,
+    "pageCount": 371,
+    "thumbnailUrl": "https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_360,c_scale/jackets/9781526668431.jpg",
+    "longDescription": "The Kite Runner is the first novel by Afghan-American author Khaled Hosseini. Published in 2003, it tells the story of Amir, a young boy from the Wazir Akbar Khan district of Kabul.",
+    "status": "PUBLISH",
+    "authors": ["Khaled Hosseini"],
+    "categories": ["Fiction", "Historical Fiction"]
+  },
+  {
+    "_id": 13,
+    "title": "One Hundred Years of Solitude",
+    "isbn": 5830274916,
+    "pageCount": 417,
+    "thumbnailUrl": "https://images.bwbcovers.com/006/One-Hundred-Years-of-Solitude-Marquez-Gabriel-9780060883287.jpg",
+    "longDescription": "One Hundred Years of Solitude is a landmark 1967 novel by Colombian author Gabriel García Márquez. It tells the multi-generational story of the Buendía family, whose patriarch, José Arcadio Buendía, founded the town of Macondo.",
+    "status": "PUBLISH",
+    "authors": ["Gabriel García Márquez"],
+    "categories": ["Fiction", "Magical Realism"]
+  },
+  {
+    "_id": 14,
+    "title": "Brave New World",
+    "isbn": 7436910852,
+    "pageCount": 288,
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/6/62/BraveNewWorld_FirstEdition.jpg",
+    "longDescription": "Brave New World is a dystopian novel by English author Aldous Huxley, written in 1931 and published in 1932. Largely set in a futuristic World State, whose citizens are environmentally engineered into an intelligence-based social hierarchy.",
+    "status": "PUBLISH",
+    "authors": ["Aldous Huxley"],
+    "categories": ["Fiction", "Dystopian Literature"]
+  },
+  {
+    "_id": 15,
+    "title": "The Picture of Dorian Gray",
+    "isbn": 6952471380,
+    "pageCount": 214,
+    "thumbnailUrl": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781476788128/the-picture-of-dorian-gray-9781476788128_hr.jpg",
+    "longDescription": "The Picture of Dorian Gray is a Gothic and philosophical novel by Oscar Wilde, first published complete in the July 1890 issue of Lippincott's Monthly Magazine.",
+    "status": "PUBLISH",
+    "authors": ["Oscar Wilde"],
+    "categories": ["Fiction", "Gothic Fiction"]
+  },
+  {
+    "_id": 16,
+    "title": "Moby-Dick",
+    "isbn": 8257461390,
+    "pageCount": 540,
+    "thumbnailUrl": "https://images.booksense.com/images/506/274/9798612274506.jpg",
+    "longDescription": "Moby-Dick; or, The Whale is an 1851 novel by American writer Herman Melville. The book is the sailor Ishmael's narrative of the obsessive quest of Ahab, captain of the whaling ship Pequod, for revenge on Moby Dick, the giant white sperm whale that on the ship's previous voyage bit off Ahab's leg at the knee.",
+    "status": "PUBLISH",
+    "authors": ["Herman Melville"],
+    "categories": ["Fiction", "Adventure"]
+  },
+  {
+    "_id": 17,
+    "title": "The Adventures of Huckleberry Finn",
+    "isbn": 6194582370,
+    "pageCount": 327,
+    "thumbnailUrl": "https://images.bwbcovers.com/195/The-Adventures-of-Huckleberry-Finn-The-Original-Unabridged-and-9781954839434.jpg",
+    "longDescription": "Adventures of Huckleberry Finn is a novel by Mark Twain, first published in the United Kingdom in December 1884 and in the United States in February 1885. It is told in the first person by Huckleberry \"Huck\" Finn, the narrator of two other Twain novels and a friend of Tom Sawyer.",
+    "status": "PUBLISH",
+    "authors": ["Mark Twain"],
+    "categories": ["Fiction", "Adventure"]
+  }
+]
